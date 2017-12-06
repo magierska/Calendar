@@ -1,0 +1,18 @@
+<Playlist Version="1.0">
+<Add Test="CalendarUnitTest.DayTest.GetEventsFromDatabaseTest" />
+<Add Test="CalendarUnitTest.DayModelTest.DayGenerateDaysTest" />
+<Add Test="CalendarUnitTest.DayModelTest.DayGetNextDays" />
+<Add Test="CalendarUnitTest.DayModelTest.DayGetPreviousDays" />
+<Add Test="CalendarUnitTest.WeekModelTest.WeekGenerateDaysTest" />
+<Add Test="CalendarUnitTest.WeekModelTest.WeekGetNextDays" />
+<Add Test="CalendarUnitTest.WeekModelTest.WeekGetPreviousDays" />
+<Add Test="CalendarUnitTest.MonthModelTest.MonthGenerateDaysTest" />
+<Add Test="CalendarUnitTest.MonthModelTest.MonthGetNextDays" />
+<Add Test="CalendarUnitTest.MonthModelTest.MonthGetPreviousDays" />
+<Add Test="CalendarUnitTest.DataModelTest.AddEventTest" />
+<Add Test="CalendarUnitTest.DataModelTest.EditEventTest" />
+<Add Test="CalendarUnitTest.DataModelTest.DeleteEventTest" />
+<Add Test="CalendarUnitTest.DataModelTest.AddPlansTest" />
+<Add Test="CalendarUnitTest.DataModelTest.DeletePlansTest" />
+<Add Test="CalendarUnitTest.DataModelTest.EditEmailAddressTest" />
+</Playlist>
